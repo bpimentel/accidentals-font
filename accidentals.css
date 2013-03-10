@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'accidentalsregular';
+    src: url('font/accidentals.eot');
+    src: url('font/accidentals.eot?#iefix') format('embedded-opentype'),
+         url('font/accidentals.woff') format('woff'),
+         url('font/accidentals.ttf') format('truetype'),
+         url('font/accidentals.svg#accidentalsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.accidental {
+	font-family: 'accidentalsregular';
+}
